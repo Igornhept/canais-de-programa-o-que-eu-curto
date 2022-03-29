@@ -1,2 +1,2 @@
-# canais-de-programa-o-que-eu-curto
+# canais-de-programação-que-eu-curto
 Primeira pagina terminada em html
